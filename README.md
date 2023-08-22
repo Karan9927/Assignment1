@@ -1,20 +1,56 @@
-![SS1](https://github.com/Karan9927/Assignment1/assets/115612744/9a934c21-1505-40de-babf-722911323780)
-![SS2](https://github.com/Karan9927/Assignment1/assets/115612744/8e4910d3-7c4b-4d85-8d75-0520618ce0f4)
-![SS3](https://github.com/Karan9927/Assignment1/assets/115612744/7e2893fa-e18b-4e37-9647-eafe0cb2322d)
+## Hosted link
+https://karan9927.github.io/Assignment1/
+## Sections
+### About Us
+![image](https://github.com/Karan9927/Assignment1/assets/115612744/6f0f7ac8-f472-4df9-b325-53e2d0d6b5cc)
 
-<ul>
-  <li>Firstly I declared the DOCTYPE to html.</li>
-  <li>After that I Opened the <strong>html tag</strong> and under the html tag I opened the head tag.</li>
-  <li>After that I declared two meta tag one for decalring the Transformation Format – 8-bit and other for viewport.</li>
-  <li>After that I gave the title of the website.</li>
-  <li>Then I closed the head tag</li>
-  <li>After this I used the <strong>h1 tag</strong> for the heading</li>
-  <li>After that I gave a horizontal line using <strong>hr tag</strong></li>
-  <li>After that I gave a <strong>p tag</strong> to write a paragraph inside the p tag I gave a <strong>strong tag</strong> to bold some text inside the p tag</li>
-  <li>I gave two <strong>a tags</strong> that help us to link url's to a text</li>
-  <li>Then i used a <strong>hr tag</strong> for creating a horizontal line</li>
-  <li>Than i used<strong> h1 tag for heading add ol and li tags </strong>to create a ordered list </li>
-  <li>After creating a menu like structure I again gave a <strong>h1 tag</strong> to create a heading text saying Contact</li>
-  <li>Then I gave a<strong> p tag </strong>some sample text and gave<strong> strong tag </strong>to bold some text inside the <strong> p tag </strong></li>
-  <li>After all the things I closed the <strong>p tag body tag and html </strong></li>
-</ul>
+In this section, the following HTML tags are used:
+
+- `<h1>`: The Gallery Cafe
+- `<h4>`: About Us
+- `<p>`: Description of the cafe with a strong emphasis.
+
+### Links
+![image](https://github.com/Karan9927/Assignment1/assets/115612744/be66b7ef-bdd6-459d-98f7-d33616dd2dfa)
+
+- [Rate Us](#)
+- [Follow us](#)
+
+### Menu
+
+#### South Indian
+![image](https://github.com/Karan9927/Assignment1/assets/115612744/477b26e4-4de3-4dae-873b-c18bfc0db128)
+
+- `<h1>`: Menu
+- `<h4>`: South Indian
+- `<ol>`: Ordered list
+  - `<li>`: Dosa
+  - `<li>`: Idli
+  - `<li>`: Utpam
+
+#### Punjabi
+![image](https://github.com/Karan9927/Assignment1/assets/115612744/a40f131a-42d8-4934-ba30-58f1ef832934)
+
+- `<h4>`: Punjabi
+- `<ol>`: Ordered list
+  - `<li>`: Chaap
+  - `<li>`: Chole Kulche
+  - `<li>`: Aloo paratha
+
+#### Extras
+![image](https://github.com/Karan9927/Assignment1/assets/115612744/427109df-f7df-4db1-9f16-639feef9fd1c)
+
+- `<h4>`: Extras
+- `<ol>`: Ordered list
+  - `<li>`: Pizza
+  - `<li>`: Nachos
+  - `<li>`: Lasagne
+
+### Contact
+![image](https://github.com/Karan9927/Assignment1/assets/115612744/e25b6ae5-c0b2-4d96-a294-0b3070babd38)
+
+In this section, the following HTML tags are used:
+
+- `<h1>`: Contact
+- `<p>`: Description of contact information and cafe details with strong emphasis.
+
